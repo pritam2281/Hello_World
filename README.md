@@ -2,4 +2,4 @@
 
 Hello all,
 
-This is Pritam here.I love coding and would like to be a Front-End Developer.
+This is Pritam here.I love coding and I am a Front-End Developer. I love my job.
